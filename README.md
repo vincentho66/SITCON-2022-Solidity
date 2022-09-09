@@ -8,9 +8,7 @@ SITCON 2022 議程智慧合約原始碼。
 
 # 別只會炒幣，來試著寫智慧合約吧！
 
-:::success
 [簡報連結](https://docs.google.com/presentation/d/1wmnUfG2DW-Tv8JeLZ4Te0hcKJI1tgrPry7LOAz3oRpA/edit?usp=sharing)
-:::
 
 ## Metamask 設定
 
@@ -76,18 +74,14 @@ contract SITCONX {
 
 ## 主委加碼環節
 
-:::danger
 **若您之前已接觸過合約開發、合約 CTF、或已經持有比獎金多的加密貨幣，請不要參加以下活動！**
-:::
 
-:::info
 **請注意**
 - 以下給的都是在 Polygon 上的 MATIC，是可以轉到交易所換法幣的
 - 請將 Metamask 網路切換至 Polygon
 - 可先在 Remix 中測試
 - 注意 Wei, Gwei, Ether 單位換算問題，可使用上面提供的換算工具
 - 攻擊前請先確定獎金是否已經被領走了
-:::
 
 ---
 
